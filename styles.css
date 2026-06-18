@@ -313,6 +313,11 @@ h3 {
   border-block: 1px solid var(--line);
 }
 
+.experience-layout {
+  display: grid;
+  gap: 34px;
+}
+
 .timeline {
   display: grid;
   gap: 18px;
